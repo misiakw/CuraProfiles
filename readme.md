@@ -5,6 +5,8 @@
 
 ##### Installation:
 
-1. Copy the contents of the "profile" folder to your Cura settings folder (e.g. C:\Users\\@\_\_\_YOUR USERNAME___@\Application Data\cura\4.3).
+1. Copy the contents of the "profile" folder to your Cura settings folder:
+  Windows: (e.g. C:\Users\\@\_\_\_YOUR USERNAME___@\Application Data\cura\4.3).
+  Linux: ( ~/.local/share/cura)
 
 2. Enjoy!
